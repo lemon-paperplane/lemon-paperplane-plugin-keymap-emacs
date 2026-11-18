@@ -1,0 +1,5 @@
+{
+  "plugin.name": "Emacs 快捷键",
+  "plugin.description": "文件编辑器的 Emacs 键位（C-x C-s、C-x C-f、标记与剪切环等），叠加在平台默认快捷键之上",
+  "keymap.emacs": "Emacs"
+}

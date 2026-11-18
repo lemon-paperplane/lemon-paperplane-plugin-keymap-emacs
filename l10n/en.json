@@ -1,0 +1,5 @@
+{
+  "plugin.name": "Emacs Keymap",
+  "plugin.description": "Emacs key bindings for the file editor (C-x C-s, C-x C-f, mark and kill ring…) on top of the platform default keymap",
+  "keymap.emacs": "Emacs"
+}
